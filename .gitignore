@@ -5,3 +5,6 @@ build/
 examples/*
 !examples/*.*
 !examples/Makefile
+tests/*
+!tests/*.*
+!tests/Makefile
